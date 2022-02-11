@@ -1,0 +1,11 @@
+.container {
+    font-weight: 100;
+    text-align: center;
+    margin-top: 255px;
+}
+
+.container button {
+    width: 200px;
+    height: 28px;
+    border-radius: 3px;
+}
